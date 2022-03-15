@@ -1,4 +1,4 @@
-# smsautoget
+# sms_autofill
 
 A new Flutter project.
 
